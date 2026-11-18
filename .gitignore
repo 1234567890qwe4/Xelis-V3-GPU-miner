@@ -1,0 +1,22 @@
+# Build outputs
+build/
+*.exe
+*.obj
+*.o
+*.lib
+*.a
+*.pdb
+*.ilk
+*.exp
+
+# Local binaries
+xelis-v3-miner
+xelis-v3-miner-cpu
+xelis-v3-hashgen
+xelis-v3-hashgen-cpu
+
+# IDE / OS
+.vs/
+.vscode/
+.DS_Store
+Thumbs.db
